@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "content": "My first post!"
+    },
+    {
+      "content": "My second post!"
+    },
+    {
+      "content": "My third post!"
+    }
+  ]
+}
